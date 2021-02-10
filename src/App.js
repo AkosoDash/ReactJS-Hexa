@@ -55,7 +55,7 @@ class App extends React.Component{
       <div className="container text-center">
         <div className="row mt-4">
           <div className="col bg-dark">
-            <h5 className="fw-bold p-4 putih">Desimal ke </h5>
+            <h5 className="fw-bold p-4 putih">Heksa Desimal</h5>
             <div className="mb-3 row">
               <label name="pilihan" value="10" className="col-sm-2 col-form-label putih text-start">Heksa Desimal</label>
               <div className="col-sm-10">
